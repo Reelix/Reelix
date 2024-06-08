@@ -16,6 +16,6 @@ object-fit: cover;
 background-size: cover;
 width: 130vw;
 opacity: 0.5;
-background: url('https://reelix.h4ck.me/bg.png');
+background: url('https://raw.githubusercontent.com/Reelix/Reelix/main/bg.png');
 "]{}
 ```
